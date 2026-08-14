@@ -9,10 +9,11 @@ Use this skill for governed Scout24 Product Intelligence work in ChatGPT. It is 
 
 ## Source and safety rules
 
-1. Treat the canonical Scout Wiki as the source of truth. Ask the user to provide relevant page links or text when ChatGPT cannot access the Wiki.
-2. Read the [Wiki authoring contract](references/wiki-authoring-contract.md) before proposing a documentation change.
-3. Do not present undocumented, draft, or conflicting information as certain. State the limitation and name an accountable team only when the source identifies one.
-4. Ask one decision question at a time. Give a concise recommended answer grounded in the available evidence, then wait for the user's response before proceeding.
+1. Use the installed **@Scout Wiki** plugin/app to search and read the canonical Scout Wiki before answering a Wiki-backed question. Do not say that Wiki access is unavailable before checking connected tools/apps.
+2. If @Scout Wiki is not installed or connected, tell the user it is required and ask them to install or connect it before retrying; accept relevant page links/text only as a fallback. Installing this skill suite does not install or connect the separate @Scout Wiki plugin.
+3. Read the [Wiki authoring contract](references/wiki-authoring-contract.md) before proposing a documentation change.
+4. Do not present undocumented, draft, or conflicting information as certain. State the limitation and name an accountable team only when the source identifies one.
+5. Ask one decision question at a time. Give a concise recommended answer grounded in the available evidence, then wait for the user's response before proceeding.
 
 ## Choose the workflow
 

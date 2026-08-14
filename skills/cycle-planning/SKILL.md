@@ -5,7 +5,11 @@ description: Relentlessly review or update a Scout24 team or cycle plan. Use for
 
 # Cycle Planning
 
-Use the Scout Wiki as the source of truth. Read the relevant cycle, business-group, team, initiative, and product pages before questioning the user. If Wiki access is unavailable, ask for links or excerpts.
+## Scout Wiki access
+
+Use the installed **@Scout Wiki** plugin/app for every Wiki search, read, draft, and update. If it is not installed or connected, tell the user it is required and ask them to install or connect it before proceeding; accept page links/text only as a fallback. This skill does not install or connect plugins.
+
+Use @Scout Wiki as the source of truth. Read the relevant cycle, business-group, team, initiative, and product pages before questioning the user.
 
 Run a relentless decision-tree interview: investigate facts rather than asking for them, ask one decision question at a time, offer a recommended answer, and wait for the response. Challenge vague goals, unsupported claims, hidden trade-offs, false commitments, and initiatives that cannot plausibly affect the outcome. Do not edit a plan until the user confirms shared understanding.
 
