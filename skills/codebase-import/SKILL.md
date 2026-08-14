@@ -11,4 +11,6 @@ Use the installed **@Scout Wiki** plugin/app for every Wiki search, read, draft,
 
 First confirm that no canonical product Wiki page already exists. Inspect available README files, API contracts, modules, deployment configuration, tests, dependencies, and recent history. Separate structural facts from inferences; do not infer initiatives, metrics, or GTM strategy from code.
 
+Before creating a product draft, confirm its Product Team, Product Manager, Engineering Manager, and Product Status. Treat these as required **At a glance** fields. Ask the PM for any value that cannot be confirmed from an authoritative source; do not derive the operating status from the Wiki draft/published state.
+
 Offer batch drafting or an interactive walkthrough. Before writing, show the proposed product purpose and capability structure and obtain PM confirmation. Create only a product landing page and genuinely independent capability pages, using [the product template](references/product.md) and [the authoring contract](references/wiki-authoring-contract.md).

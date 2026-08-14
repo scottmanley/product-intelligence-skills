@@ -1,3 +1,9 @@
+## At a glance
+
+| Field | Value |
+| --- | --- |
+| GTM Status | [Planned / Active / Retired] |
+
 ## Audience
 
 - [Primary audience and context]

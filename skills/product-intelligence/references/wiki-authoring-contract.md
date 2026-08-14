@@ -7,7 +7,7 @@ Use Scout Wiki as the canonical source for product documentation. The repository
 1. Search the Wiki before creating a page. Reuse the canonical page; do not create a duplicate because a title is familiar.
 2. Fetch a page immediately before any update or append, and pass its current revision and update timestamp to the write operation.
 3. Create substantive changes as drafts. A human reviewer must set the page to **full width** in the Wiki and publish it. Mention that manual gate in the handoff.
-4. Do not add YAML/front matter or a duplicate visible metadata block. Use the Wiki's page details, hierarchy, and backlinks.
+4. Do not add YAML/front matter or duplicate the Wiki's page details. Use the required **At a glance** block from the applicable template for product, initiative, requirement, or GTM operating information.
 
 ## Information architecture
 

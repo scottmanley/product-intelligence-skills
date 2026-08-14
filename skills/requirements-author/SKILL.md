@@ -11,6 +11,8 @@ Use the installed **@Scout Wiki** plugin/app for every Wiki search, read, draft,
 
 Read the parent initiative and product page first. Establish a confirmed one- or two-sentence problem statement before writing criteria. Ask the author to choose User Stories, Jobs To Be Done, or Use Cases.
 
+Before drafting, confirm the Requirement Status (`Proposed`, `Approved`, `Implemented`, or `Retired`). This is required in the **At a glance** block and is separate from the Wiki draft/published state.
+
 Then grill one decision at a time through the normal path, edge cases, alternatives, failures, and boundaries. Recommend an answer where evidence supports one; do not write until the user confirms shared understanding. Every criterion must be independently testable.
 
 Draft with [the requirements template](references/requirements.md) and follow [the Wiki authoring contract](references/wiki-authoring-contract.md).

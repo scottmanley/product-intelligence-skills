@@ -1,3 +1,9 @@
+## At a glance
+
+| Field | Value |
+| --- | --- |
+| Initiative Status | [Proposed / Planned / Active / Paused / Complete / Stopped] |
+
 ## Summary
 
 ## Hypothesis

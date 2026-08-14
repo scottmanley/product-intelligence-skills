@@ -1,3 +1,12 @@
+## At a glance
+
+| Field | Value |
+| --- | --- |
+| Product Team | [Accountable team] |
+| Product Manager | [Name] |
+| Engineering Manager | [Name] |
+| Product Status | [Discovery / Active / Paused / Retired] |
+
 ## Purpose
 
 [The problem this product solves and the outcome it enables.]
