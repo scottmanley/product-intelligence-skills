@@ -5,7 +5,7 @@
 | Product Team | [Accountable team] |
 | Product Manager | [Name] |
 | Engineering Manager | [Name] |
-| Product Status | [Discovery / Active / Paused / Retired] |
+| Product Status | [Discovery / Under development / Active / Paused / Retired] |
 
 ## Purpose
 

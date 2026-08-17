@@ -27,6 +27,7 @@ Infer the workflow from the request; do not make the user learn skill names.
 | Define durable, testable behaviour | Requirements |
 | Plan or challenge a team/cycle plan | Cycle planning |
 | Find and repair stale or inconsistent documentation | Product audit |
+| Create or revise canonical product documentation from confirmed source material | Product documentation |
 | Document a product that exists in code but not in the Wiki | Codebase import |
 
 For a straightforward question, answer directly from the canonical Wiki. Start with purpose and outcome, then add strategy, active initiatives, requirements, and GTM only when useful. Use published pages first; state clearly if a source is draft, conflicting, missing, or inaccessible. For Customer Care, lead with a direct, plain-language answer.
