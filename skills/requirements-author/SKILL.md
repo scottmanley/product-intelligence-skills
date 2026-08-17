@@ -15,4 +15,4 @@ Before drafting, confirm the Requirement Status (`Proposed`, `Approved`, `Implem
 
 Then grill one decision at a time through the normal path, edge cases, alternatives, failures, and boundaries. Recommend an answer where evidence supports one; do not write until the user confirms shared understanding. Every criterion must be independently testable.
 
-Draft with [the requirements template](references/requirements.md) and follow [the Wiki authoring contract](references/wiki-authoring-contract.md).
+Draft with [the requirements template](references/requirements.md) and follow [the Wiki authoring contract](references/wiki-authoring-contract.md). Write for scanning. Prefer short, information-dense phrases; cut connective prose, never criteria, decisions, caveats, ownership, or source limitations. Before handoff, confirm the **At a glance** block and every link remain present.

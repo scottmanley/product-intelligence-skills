@@ -23,7 +23,13 @@ Use Scout Wiki as the source of truth. Do not invent missing facts or present dr
 
 Keep ownership in Wiki page details, not in titles or hierarchy. Write content that survives team and organisation changes, favouring stable purpose, behaviour, dependencies, and strategy over transient delivery chatter.
 
-Create only the page or pages supported by the information architecture. A product landing page is a concise, current overview and navigation hub. Create a child page only when the topic has its own lifecycle, owner, audience, or substantial content. For a new or substantially rewritten product landing page, start with the [product template](references/product.md) and remove sections the confirmed source material does not support.
+Create only the page or pages supported by the information architecture. A product landing page is a concise, current overview and navigation hub. Create a child page only when the topic has its own lifecycle, owner, audience, or substantial content. For a new or substantially rewritten product landing page, start with the [product template](references/product.md).
+
+Never remove the template's **At a glance** block. Every product page must name Product Team, Product Manager, Engineering Manager, and Product Status. Use **TBA — accountable owner** when the source does not confirm a value; missing ownership is documentation, not a reason to omit the field.
+
+## Writing standard
+
+Write for scanning. Prefer short, information-dense phrases; cut connective prose, never facts, decisions, caveats, ownership, or source limitations. Lead with the outcome, use one point per bullet, and prefer a compact table when it makes repeated fields easier to compare.
 
 ## Documentation workflow
 
@@ -32,7 +38,7 @@ Create only the page or pages supported by the information architecture. A produ
 3. Search and read the canonical Scout Wiki pages and relevant context.
 4. Resolve material conflicts or missing decisions before writing.
 5. Draft the necessary page changes in Scout Wiki.
-6. Validate the complete resulting page, including every Markdown link.
+6. Validate the complete resulting page, including every Markdown link and mandatory ownership/status fields.
 7. Hand off the draft with its sources, assumptions, and unresolved questions.
 
 ## Documentation areas

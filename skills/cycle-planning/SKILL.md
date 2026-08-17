@@ -15,4 +15,4 @@ Run a relentless decision-tree interview: investigate facts rather than asking f
 
 For every goal, resolve outcome and why now; success measure with baseline, target, owner, and review date; smallest credible portfolio; evidence versus assumptions; dependencies and confidence; risks and trade-offs; scale/reshape/defer/stop rule; and risk-first delivery shape or an intentional delivery-team handoff. Adapt the order to the conversation; do not silently skip a branch.
 
-Use [the template bundle](references/templates.md) when a plan exposes a missing governed artifact. Follow [the Wiki authoring contract](references/wiki-authoring-contract.md).
+Use [the template bundle](references/templates.md) when a plan exposes a missing governed artifact. Follow [the Wiki authoring contract](references/wiki-authoring-contract.md). Write for scanning. Prefer short, information-dense phrases; cut connective prose, never targets, decisions, caveats, ownership, or evidence limits. Retain every required ownership/status field; use **TBA — accountable owner** when a source does not confirm it.

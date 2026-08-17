@@ -6,15 +6,15 @@ For each goal: outcome; target metrics with baseline, target, owner, and review 
 
 ## Product
 
-Purpose · Vision · Strategy · Principles · Current capabilities · Planned · Out of scope · Upstream dependencies · Downstream consumers.
+At a glance: Product Team · Product Manager · Engineering Manager · Product Status. Then Purpose · Vision · Strategy · Principles · Current capabilities · Planned · Out of scope · Upstream dependencies · Downstream consumers. Keep the At a glance fields even when their values are **TBA — accountable owner**.
 
 ## Initiative
 
-Summary · Hypothesis · Strategic Context · Goals · In Scope · Out of Scope · Delivery Shape · Risks · Decision Rule · Dependencies.
+At a glance: Initiative Status. Then Summary · Hypothesis · Strategic Context · Goals · In Scope · Out of Scope · Delivery Shape · Risks · Decision Rule · Dependencies.
 
 ## Requirements
 
-Problem · Acceptance Criteria in User Stories, Jobs To Be Done, or Use Cases.
+At a glance: Requirement Status. Then Problem · Acceptance Criteria in User Stories, Jobs To Be Done, or Use Cases.
 
 ## Metrics
 

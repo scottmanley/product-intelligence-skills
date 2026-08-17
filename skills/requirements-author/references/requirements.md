@@ -2,7 +2,7 @@
 
 | Field | Value |
 | --- | --- |
-| Requirement Status | [Proposed / Approved / Implemented / Retired] |
+| Requirement Status | [Proposed / Approved / Implemented / Retired / TBA — accountable owner] |
 
 ## Problem
 

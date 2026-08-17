@@ -2,7 +2,7 @@
 
 | Field | Value |
 | --- | --- |
-| Initiative Status | [Proposed / Planned / Active / Paused / Complete / Stopped] |
+| Initiative Status | [Proposed / Planned / Active / Paused / Complete / Stopped / TBA — accountable owner] |
 
 ## Summary
 
