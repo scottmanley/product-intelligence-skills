@@ -1,6 +1,6 @@
 ---
 name: product-intelligence
-description: "Guide Product Intelligence work in ChatGPT: answer product questions, onboard teammates, plan cycles, author initiatives or requirements, audit documentation, or draft documentation from a codebase. Use canonical Wiki material as the source of truth."
+description: "Guide Product Intelligence work in ChatGPT: answer product questions, onboard teammates, estimate initiatives, plan cycles, author initiatives or requirements, audit documentation, or draft documentation from a codebase. Use canonical Wiki material as the source of truth."
 ---
 
 # Product Intelligence
@@ -25,6 +25,7 @@ Infer the workflow from the request; do not make the user learn skill names.
 | Answer a customer-facing or internal product question | Support answer |
 | Start, sharpen, or revise a product initiative | Initiative |
 | Define durable, testable behaviour | Requirements |
+| Prepare or facilitate an evidence-based initiative estimate | Estimation Jam |
 | Plan or challenge a team/cycle plan | Cycle planning |
 | Find and repair stale or inconsistent documentation | Product audit |
 | Create or revise canonical product documentation from confirmed source material | Product documentation |

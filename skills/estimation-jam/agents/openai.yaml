@@ -1,0 +1,4 @@
+interface:
+  display_name: "Estimation Jam"
+  short_description: "Collaborative evidence-based estimation"
+  default_prompt: "Use $estimation-jam to prepare an evidence-based estimate for this initiative."
